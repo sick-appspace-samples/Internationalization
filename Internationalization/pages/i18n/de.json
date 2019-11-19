@@ -1,0 +1,23 @@
+{
+  "page": {
+    "camera1": "Kamera 1",
+    "camera2": "Kamera 2",
+    "configuration": "Konfiguration",
+  },
+  "category": {
+    "setup": "Einrichten",
+    "cameras": "Kameras"
+  },
+  "app": {
+    "configuration": {
+      "checkbox1": "Erste Option",
+      "checkbox2": "Zweite Option"
+    },
+    "textfieldplaceholder":"Hier Text einfügen"
+
+  },
+  "button": {
+    "accept": "Annehmen",
+    "decline": "Ablehnen"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "pages": [
+    {
+      "category": "setup",
+      "pages": [
+        {
+          "path": "pages01/configuration.html",
+          "name": "configuration"
+        }
+      ]
+    },
+    {
+      "category": "cameras",
+      "pages": [
+        {
+          "path": "pages01/camera1.html",
+          "name": "camera1"
+        },
+        {
+          "path": "pages01/camera2.html",
+          "name": "camera2"
+        }
+      ]
+    }
+  ]
+}
