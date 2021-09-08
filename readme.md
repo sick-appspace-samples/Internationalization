@@ -1,5 +1,6 @@
 ## Internationalization
-Handling translations to support different languages in the user interface. 
+Handling translations to support different languages in the user interface.
+
 ### Description
 This sample shows how to prepare translation files and reference these in the user interface to be able to provide the application specific user interface in different languages. 
 The language files can be found in pages/i18n. 
